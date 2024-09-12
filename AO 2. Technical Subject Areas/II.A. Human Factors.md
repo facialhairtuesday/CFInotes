@@ -46,3 +46,6 @@ Although the percentage of oxygen in the atmosphere is constant with changes in 
 ### Hypemic Hypoxia
 When the blood is not able to take up and transport sufficient oxygen to the cells in the body
 
+#### Possible causes
+- Not enough blood volume
+
