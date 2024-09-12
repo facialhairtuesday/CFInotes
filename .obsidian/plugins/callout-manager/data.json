@@ -1,0 +1,45 @@
+{
+  "callouts": {
+    "custom": [
+      "defense-mechanisms"
+    ],
+    "settings": {
+      "summary": [
+        {
+          "changes": {
+            "icon": "lucide-beer",
+            "color": "83, 223, 221"
+          }
+        }
+      ],
+      "defense-mechanisms": [
+        {
+          "changes": {
+            "icon": "lucide-biohazard"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 51, 51"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 51, 51"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
