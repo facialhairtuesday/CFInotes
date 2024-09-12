@@ -1,2 +1,4 @@
 # Ignore files in resources folder
-Resources/
+Resources/FAA/
+Resources/Backseat Pilot Files/**/*.pptx
+Templates/

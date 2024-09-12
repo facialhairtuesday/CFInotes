@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "I.A. Effects of Behavior and Communication on the Learning Process",
+      "path": "AO 1. Fundamentals of Instruction/I.A. Effects of Behavior and Communication on the Learning Process.md"
+    },
+    {
+      "basename": "II. Technical Subject Areas",
+      "path": "AO 2. Technical Subject Areas/II. Technical Subject Areas.md"
+    },
+    {
+      "basename": "II.A. Human Factors",
+      "path": "AO 2. Technical Subject Areas/II.A. Human Factors.md"
+    },
+    {
+      "basename": "CFI ACS Detailed - Aug24",
+      "path": "Resources/Backseat Pilot Files/CFI/CFI ACS Detailed - Aug24.pdf"
+    },
+    {
+      "basename": "CFI Airplane ACS",
+      "path": "Resources/FAA/CFI Airplane ACS.pdf"
+    },
+    {
+      "basename": "PPL ACS",
+      "path": "Resources/Backseat Pilot Files/PPL/PPL ACS.pdf"
     },
     {
       "basename": "CFI ACS Condensed - Aug24",
       "path": "Resources/Backseat Pilot Files/CFI/CFI ACS Condensed - Aug24.pdf"
     },
     {
-      "basename": "CFI Airplane ACS",
-      "path": "Resources/FAA/CFI Airplane ACS.pdf"
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "FAA-H-8083-9B - Aviation Instructors Handbook",
@@ -19,10 +39,6 @@
     {
       "basename": "III. Preflight Preparation",
       "path": "AO 3. Preflight Prep/III. Preflight Preparation.md"
-    },
-    {
-      "basename": "CFI ACS Detailed - Aug24",
-      "path": "Resources/Backseat Pilot Files/CFI/CFI ACS Detailed - Aug24.pdf"
     },
     {
       "basename": "III.C. Weather Information",
@@ -35,10 +51,6 @@
     {
       "basename": "III.B.1. Airworthiness Requirements - General Overview",
       "path": "AO 3. Preflight Prep/III.B.1. Airworthiness Requirements - General Overview.md"
-    },
-    {
-      "basename": "II. Technical Subject Areas",
-      "path": "AO 2. Technical Subject Areas/II. Technical Subject Areas.md"
     },
     {
       "basename": "III.A. Pilot Qualifications",
@@ -87,18 +99,6 @@
     {
       "basename": "II.F. Performance and Limitations",
       "path": "AO 2. Technical Subject Areas/II.F. Performance and Limitations.md"
-    },
-    {
-      "basename": "II.H. Navigation Systems and Radar Services",
-      "path": "AO 2. Technical Subject Areas/II.H. Navigation Systems and Radar Services.md"
-    },
-    {
-      "basename": "II.A. Human Factors",
-      "path": "AO 2. Technical Subject Areas/II.A. Human Factors.md"
-    },
-    {
-      "basename": "I.F. Elements of Effective Teaching that include Risk Management and Accident Prevention",
-      "path": "AO 1. Fundamentals of Instruction/I.F. Elements of Effective Teaching that include Risk Management and Accident Prevention.md"
     }
   ],
   "omittedPaths": [],
