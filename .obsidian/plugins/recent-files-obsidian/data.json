@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "II.A. Human Factors",
       "path": "AO 2. Technical Subject Areas/II.A. Human Factors.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "PPL ACS",
       "path": "Resources/Backseat Pilot Files/PPL/PPL ACS.pdf"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "FAA-H-8083-9B - Aviation Instructors Handbook",
