@@ -1,17 +1,17 @@
 ---
 AO: I.D
 ---
-
-## References
+# References
 [[FAA-H-8083-9B - Aviation Instructors Handbook.pdf#page=132|AIH Chapter 6: Assessment]]
 [[FAA-H-8083-9B - Aviation Instructors Handbook.pdf#page=171|AIH Chapter 9: Techniques of Flight Instruction]]
-
-## Objectives:
+# Objectives:
 The learner should develop knowledge of the elements related to evaluation, assessment & testing as required in the Instructor ACS.
-## Elements
+# Elements
 [[#Assessment]]
 [[#Critique]]
 [[#Assessment of Piloting Ability]]
+# Completion Standards
+The learner can properly critique and evaluate learners using the methods and characteristics described.
 
 ## Assessment
 An effective assessment informs the instructor and learner about how well the learner is progressing.

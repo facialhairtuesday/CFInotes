@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AO 1. Fundamentals of Instruction/I.A. Effects of Behavior and Communication on the Learning Process.md",
+                "file": "AO 2. Technical Subject Areas/II.A. Human Factors.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -53,6 +53,26 @@
               "type": "pdf",
               "state": {
                 "file": "Resources/FAA/CFI Airplane ACS.pdf"
+              }
+            }
+          },
+          {
+            "id": "b8da23011d1d26a2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Resources/FAA/FAA-G-8083-25C - Pilots Handbook of Aeronautical Knowledge.pdf"
+              }
+            }
+          },
+          {
+            "id": "f2646bfe985959dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Resources/FAA/AIM.pdf"
               }
             }
           }
@@ -130,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AO 1. Fundamentals of Instruction/I.A. Effects of Behavior and Communication on the Learning Process.md",
+                "file": "AO 2. Technical Subject Areas/II.A. Human Factors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AO 1. Fundamentals of Instruction/I.A. Effects of Behavior and Communication on the Learning Process.md",
+                "file": "AO 2. Technical Subject Areas/II.A. Human Factors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AO 1. Fundamentals of Instruction/I.A. Effects of Behavior and Communication on the Learning Process.md"
+                "file": "AO 2. Technical Subject Areas/II.A. Human Factors.md"
               }
             }
           },
@@ -203,16 +223,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d67ffbb997877f1a",
+  "active": "d3a4441d7d3f7e3e",
   "lastOpenFiles": [
-    "Templates",
-    "AO 2. Technical Subject Areas/II. Technical Subject Areas.md",
+    "Resources/Backseat Pilot Files/CFI/CFI ACS Detailed - Aug24.pdf",
+    "Resources/FAA/AIM.pdf",
+    "Resources/FAA/FAA-G-8083-25C - Pilots Handbook of Aeronautical Knowledge.pdf",
+    "Resources/FAA/CFI Airplane ACS.pdf",
+    "Resources/Backseat Pilot Files/CFI/CFI ACS Condensed - Aug24.pdf",
     "AO 2. Technical Subject Areas/II.A. Human Factors.md",
     "AO 1. Fundamentals of Instruction/I.A. Effects of Behavior and Communication on the Learning Process.md",
-    "Resources/Backseat Pilot Files/CFI/CFI ACS Detailed - Aug24.pdf",
-    "Resources/FAA/CFI Airplane ACS.pdf",
+    "AO 1. Fundamentals of Instruction/I.F. Elements of Effective Teaching that include Risk Management and Accident Prevention.md",
+    "AO 1. Fundamentals of Instruction/I.E. Elements of Effective Teaching in a Professional Environment.md",
+    "AO 1. Fundamentals of Instruction/I.D. Student Evaluation, Assessment, and Testing.md",
+    "AO 1. Fundamentals of Instruction/I.C. Course Development, Lesson Plans, & Classroom Training Techniques.md",
+    "AO 1. Fundamentals of Instruction/I.B. Learning Process.md",
+    "AO 2. Technical Subject Areas/II.B. Visual Scanning and Collision Avoidance.md",
+    "Templates/Start of Notes.md",
+    "Resources/FAA/FAA-H-8083-3C - Airplane Flying Handbook.pdf",
+    "Resources/FAA/FAA-H-8083-3C - Airplane Flying Handbook.pdf.crdownload",
+    "AO 1. Fundamentals of Instruction/I. Fundamentals of Instructing.md",
+    "AO 2. Technical Subject Areas/II. Technical Subject Areas.md",
+    "Templates",
     "Resources/Backseat Pilot Files/PPL/PPL ACS.pdf",
-    "Resources/Backseat Pilot Files/CFI/CFI ACS Condensed - Aug24.pdf",
     "index.md",
     "Resources/FAA/FAA-H-8083-9B - Aviation Instructors Handbook.pdf",
     "AO 3. Preflight Prep/III. Preflight Preparation.md",
@@ -226,24 +258,11 @@
     "AO 2. Technical Subject Areas/II.M. Night Operations.md",
     "AO 2. Technical Subject Areas/II.K. Endorsements and Logbook Entries.md",
     "AO 2. Technical Subject Areas/II.J. 14 CFR and Publications.md",
-    "AO 1. Fundamentals of Instruction/I.E. Elements of Effective Teaching in a Professional Environment.md",
-    "AO 2. Technical Subject Areas/II.B. Visual Scanning and Collision Avoidance.md",
     "AO 2. Technical Subject Areas/II.C. Runway Incursion Avoidance.md",
     "AO 2. Technical Subject Areas/II.D. Principles of Flight.md",
-    "AO 2. Technical Subject Areas/II.E. Aircraft Flight Controls and Operation of Systems.md",
-    "AO 2. Technical Subject Areas/II.F. Performance and Limitations.md",
-    "AO 2. Technical Subject Areas/II.H. Navigation Systems and Radar Services.md",
-    "AO 1. Fundamentals of Instruction/I.F. Elements of Effective Teaching that include Risk Management and Accident Prevention.md",
     "Resources/Images/Hazardous Attitudes.png",
-    "AO 1. Fundamentals of Instruction/Definitions/5P Checklist.md",
-    "AO 1. Fundamentals of Instruction/Definitions/Single Pilot Resource Management (SRM).md",
-    "TagsRoutes/reports",
-    "TagsRoutes/logs",
-    "TagsRoutes",
-    "Resources/FAA/Aeronautical Chart Users Guide.pdf",
     "Pasted image 20240812210745.png",
     "Resources/Images/Hierarchy of Needs.png",
-    "Resources/Backseat Pilot Files/CFI/CFI ACS PowerPoints - Aug24.pptx",
     "Resources/Images/Countermeasures to Fatigue.png",
     "Resources/Images/Warning Signs of Fatigue.png",
     "Resources/Images/FRAT Tool.png",

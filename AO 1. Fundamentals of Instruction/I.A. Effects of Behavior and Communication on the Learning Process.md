@@ -2,18 +2,19 @@
 AO: I.A
 ---
 
-## References: 
+# References: 
 * [[FAA-H-8083-9B - Aviation Instructors Handbook.pdf#page=34|AIH Chapter 2: Human Behavior]]
 * [[FAA-H-8083-9B - Aviation Instructors Handbook.pdf#page=94|AIH Chapter 4: Effective Communication]]
-
-## Objectives:
+# Objectives:
 The learner should develop knowledge of the elements related to human behavior and effective communication as required in the Instructor ACS.
-##  Elements:
+# Elements:
 * [[#Elements of Human Behavior]]
 * [[#Learner Emotional Reactions]]
 * [[#Teaching the Adult Learner]]
 * [[#Effective Communication]]
 * [[#RM Recognizing & Accommodating Human Behavior]]
+# Completion Standards
+The learner will understand the 3 basic elements of the communicative process, recognize the various barriers to communication, and develop communication skills to convey the desired information to future learners.
 
 ## Elements of Human Behavior
 

@@ -1,11 +1,11 @@
 ---
 AO: I.B
 ---
-## References: 
+# References: 
 * [[FAA-H-8083-9B - Aviation Instructors Handbook.pdf#page=52|AIH Chapter 3: The Learning Process]]
-## Objective:
+# Objective:
 The learner should develop knowledge of the elements related to the learning process as required in the [[CFI Airplane ACS.pdf | CFI Airplane ACS]].
-## Elements:
+# Elements:
 * [[#Definitions of Learning]]
 * [[#Learning Theory]]
 * [[#Perceptions and Insight]]
@@ -21,6 +21,8 @@ The learner should develop knowledge of the elements related to the learning pro
 * [[#Retention of Learning]]
 * [[#Transfer of Learning]]
 * [[#Habit Formation]]
+# Completion Standards
+The learner understands the learning process and can integrate the knowledge when instructing learners
 
 ## Definitions of Learning
 There are multiple definitions of learning, which tend to fall into categories including:

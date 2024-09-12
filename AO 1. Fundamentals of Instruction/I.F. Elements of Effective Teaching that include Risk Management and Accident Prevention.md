@@ -1,11 +1,11 @@
 ---
 AO: I.F
 ---
-## References:
+# References:
 [[FAA-H-8083-9B - Aviation Instructors Handbook.pdf|Aviation Instructors Handbook]]
-## Objectives:
+# Objectives:
 The learner should develop knowledge of the elements related to managing and mitigating risk and it's application to effective teaching per the Instructor ACS.
-## Elements:
+# Elements:
 [[#Principles of Risk Management]]
 [[#Risk Management Process]]
 [[#Risk Management Tools]]
@@ -13,6 +13,8 @@ The learner should develop knowledge of the elements related to managing and mit
 [[#Managing Risk during Flight Instruction]]
 [[#Obstacles to Maintaining SA]]
 [[#ADM, CRM, & SRM]]
+# Completion Standards
+The learner can not only recognize potentially hazardous situations and effectively mitigate risk but can teach practical risk management.
 
 ## Principles of Risk Management
 The goal of risk management is to proactively identify safety-related hazards and mitigate the associated risks.

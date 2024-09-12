@@ -1,19 +1,18 @@
 ---
 AO: I.E
 ---
-
-## References:
+# References:
 [[FAA-H-8083-9B - Aviation Instructors Handbook.pdf#page=159|AIH Chapter 8: Aviation Instructor Responsibilities and Professionalism]]
-
-## Objectives:
+# Objectives:
 The learner should develop knowledge of the elements related to flight instructor characteristics, responsibilities, & professionalism as necessary in the Instructor ACS.
-## Elements:
+# Elements:
 [[#Aviation Instructor Responsibilities]]
 [[#Flight Instructor Responsibilities]]
 [[#Qualifications and Professionalism]]
 [[#Professional Development]]
 [[#Instructor Ethics & Conduct]]
-
+# Completion Standards
+The learner understands the responsibilities associated with instructing as well as the characteristics related to being a professional.
 ## Aviation Instructor Responsibilities
 The job of an aviation instructor is to transfer aviation knowledge.
 - Instructors help learners meet and exceed established standards.

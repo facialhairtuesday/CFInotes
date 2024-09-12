@@ -1,16 +1,13 @@
 ---
 AO: I.C
 ---
-
-## References
+# References
 [[FAA-H-8083-9B - Aviation Instructors Handbook.pdf#page=52|AIH Chapter 3: The Learning Process]]
 [[FAA-H-8083-9B - Aviation Instructors Handbook.pdf#page=104|AIH Chapter 5: The Teaching Process]]
 [[FAA-H-8083-9B - Aviation Instructors Handbook.pdf#page=145|AIH Chapter 7: Planning Instructional Activity]]
-
-## Objectives:
+# Objectives:
 The learner develops knowledge of the elements related to course & lesson development as required in the Instructor ACS.
-
-## Elements
+# Elements
 [[#Teaching]]
 [[#Course of Training]]
 [[#Preparation of a Lesson]]
@@ -21,7 +18,8 @@ The learner develops knowledge of the elements related to course & lesson develo
 [[#Integrated Flight Instruction]]
 [[#Problem Based Instruction]]
 [[#Planning Instructional Activity]]
-
+# Completion Standards
+The learner understands how to prepare a lesson, and effectively organize and present the material, integrating training aids, problem-based instruction, and other tools based on the specific learner(s) and the situation.
 ## Teaching
 Teaching is to instruct or train
 ### Process
