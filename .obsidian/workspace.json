@@ -6,7 +6,6 @@
       {
         "id": "df6370800149d78a",
         "type": "tabs",
-        "dimension": 46.695095948827294,
         "children": [
           {
             "id": "d3a4441d7d3f7e3e",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AO 3. Preflight Prep/III. Preflight Preparation.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -35,57 +34,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ca867f9a74dead4d",
-        "type": "tabs",
-        "dimension": 53.304904051172706,
-        "children": [
-          {
-            "id": "5efc3b88b2db4e35",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Resources/FAA/FAA-H-8083-9B - Aviation Instructors Handbook.pdf"
-              }
-            }
-          },
-          {
-            "id": "58c537112dc9084a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Resources/FAA/CFI Airplane ACS.pdf"
-              }
-            }
-          },
-          {
-            "id": "13e496646eb089e2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Resources/Backseat Pilot Files/CFI/CFI ACS Condensed - Aug24.pdf"
-              }
-            }
-          },
-          {
-            "id": "730e2503b1cafcee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AO 3. Preflight Prep/III. Preflight Preparation.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AO 3. Preflight Prep/III. Preflight Preparation.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AO 3. Preflight Prep/III. Preflight Preparation.md"
+                "file": "index.md"
               }
             }
           },
@@ -233,18 +181,18 @@
   },
   "active": "d3a4441d7d3f7e3e",
   "lastOpenFiles": [
-    "index.md",
-    "Resources/Backseat Pilot Files/CFI/CFI ACS Detailed - Aug24.pdf",
     "Resources/Backseat Pilot Files/CFI/CFI ACS Condensed - Aug24.pdf",
     "Resources/FAA/CFI Airplane ACS.pdf",
+    "Resources/FAA/FAA-H-8083-9B - Aviation Instructors Handbook.pdf",
+    "index.md",
     "AO 3. Preflight Prep/III. Preflight Preparation.md",
+    "Resources/Backseat Pilot Files/CFI/CFI ACS Detailed - Aug24.pdf",
     "AO 3. Preflight Prep/III.C. Weather Information.md",
     "AO 3. Preflight Prep/III.B.2. Airworthiness Requirements - FARs.md",
     "AO 3. Preflight Prep/III.B.1. Airworthiness Requirements - General Overview.md",
     "AO 2. Technical Subject Areas/II. Technical Subject Areas.md",
     "III.B. Airworthiness Requirements.md",
     "AO 3. Preflight Prep/III.A. Pilot Qualifications.md",
-    "Resources/FAA/FAA-H-8083-9B - Aviation Instructors Handbook.pdf",
     "AO 2. Technical Subject Areas/II.O. High Altitude Operations - Pressurization.md",
     "AO 2. Technical Subject Areas/II.N. High Altitude Operations - Supplemental Oxygen.md",
     "AO 2. Technical Subject Areas/II.M. Night Operations.md",

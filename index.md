@@ -1,6 +1,7 @@
 ---
 tags: 
 draft: "false"
+title: Index.md
 ---
 
 ## [[I. Fundamentals of Instructing|Area of Operation I. Fundamentals of Instructing]]
