@@ -33,19 +33,32 @@ Hypoxia, which means "reduced oxygen" or "not enough oxygen", is of the greatest
 ### Forms of Hypoxia
 #### Hypoxic Hypoxia
 Result of insufficient oxygen available to the body as a whole
-- A blocked airway or drowning are examples of how the lungs and body as a whole can be deprived of oxygen
-
-For pilots, the reduction in partial pressure of oxygen at high altitude is a common example
+##### Of Concern for Pilots
+- For pilots, the reduction in partial pressure of oxygen at high altitude is a common example
+	- As you ascend, the percentage of each gas remains the same, but the molecules no longer have the pressure required to drive oxygen into the respiratory system
+- The decrease of oxygen molecules at sufficient pressure leads to hypoxic hypoxia
 
 >[!Info] Partial Pressure
 >The amount of pressure that a single gas out of a mixture contributes to the total pressure
-
-Although the percentage of oxygen in the atmosphere is constant with changes in altitude, partial pressure decreases as altitude increases
-- As you ascend, the percentage of each gas remains the same, but the molecules no longer have the pressure required to drive oxygen into the respiratory system
-- The decrease of oxygen molecules at sufficient pressure leads to hypoxic hypoxia
-### Hypemic Hypoxia
+>
+>Although the percentage of oxygen in the atmosphere is constant with changes in altitude, partial pressure decreases as altitude increases
+##### Other Possible Causes
+- Blocked airway
+- Drowning
+#### Hypemic Hypoxia
 When the blood is not able to take up and transport sufficient oxygen to the cells in the body
-
-#### Possible causes
+##### Of Concern for Pilots
+- Carbon Monoxide poisoning
+##### Other Possible Causes
 - Not enough blood volume
-
+- Blood diseases such as anemia
+- Hemoglobin unable to bind oxygen molecules
+### Stagnant Hypoxia
+When oxygen rich blood inn the lungs isn't moving to the tissues that need it
+- Like when your arm falls asleep
+#### Possible Causes
+- Shock
+- Heart failing to pump blood effectively
+- Constricted Arteries
+- Pulling excessive positive Gs
+- 
